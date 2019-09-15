@@ -1,0 +1,4 @@
+genetic-startups-react-typescript:
+    build:
+      image: romenrg/genetic-startups-react-typescript
+      dockerfile: Dockerfile

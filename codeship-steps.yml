@@ -1,0 +1,5 @@
+- type: parallel
+  steps:
+    - name: test
+      service: genetic-startups-react-typescript
+      command: npm test
