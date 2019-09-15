@@ -3,6 +3,8 @@
 
 > The React + Typescript implementation
 
+[![Codeship Status for romenrg/genetic-startups-react-typescript](https://app.codeship.com/projects/2e00e130-ba17-0137-9c9e-5ec1c160b8c0/status?branch=master)](https://app.codeship.com/projects/364765)
+
 Genetic Algorithms representing the life of startups (React app, using Typescript)
 
 ## Create React App
